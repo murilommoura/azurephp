@@ -1,6 +1,5 @@
 <?php
 
-
-echo 'Teste';
+echo 'Novo Teste';
 
 ?>
