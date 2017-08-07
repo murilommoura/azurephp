@@ -2,6 +2,6 @@
 
 echo 'Novo Teste';
 
-print date();
+echo date();
 
 ?>
