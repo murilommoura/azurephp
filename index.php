@@ -2,4 +2,6 @@
 
 echo 'Novo Teste';
 
+print date();
+
 ?>
