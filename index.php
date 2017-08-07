@@ -2,6 +2,6 @@
 
 echo 'Novo Teste';
 
-echo 'Data e Hora';
+echo date('Y-m-d H:i:s');
 
 ?>
