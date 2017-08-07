@@ -2,6 +2,6 @@
 
 echo 'Novo Teste';
 
-echo date();
+echo 'Data e Hora';
 
 ?>
